@@ -1,4 +1,4 @@
-## portfolio website project
+# portfolio website project
 
 ### 🤔 프로젝트 소개
 신입 UX 디자이너 (~~취준생~~)의 수제 포트폴리오 웹사이트 제작기
