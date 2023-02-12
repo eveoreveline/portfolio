@@ -1,0 +1,36 @@
+.menu_left .menu_item {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.menu {
+    display: flex;
+    justify-content:space-between;
+    padding: 30px;
+}
+
+.menu_right {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.proj {
+    display: none;
+    position: absolute;
+    top: 100%;
+    list-style:none;
+    margin: 0;
+    padding: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 1px solid lightgray;
+    border-top-width: 0;
+}
+
+.menu_item:hover .proj {
+    display: block;
+}
+
+.menu_item {
+    position:relative;
+}
